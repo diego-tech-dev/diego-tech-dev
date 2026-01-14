@@ -6,11 +6,12 @@ Curious about **TanStack Start**, **streaming UIs**, and the edge where design m
 ---
 
 ### 💻 What I’m up to
-- 🔭 Building software at **[MaibornWolff GmbH](https://www.maibornwolff.de/)**
+- 🔭 Building software at **[DERTOUR Deutschland GmbH](https://www.dertour-group.com/en/home/)**
 - 🧠 Exploring **TanStack Start**, **React**, **Vite**, and progressive rendering patterns
 - ⚙️ Working across the stack — I thrive on front-end design but build back-end systems whenever needed
 - 🌿 Interested in how technology can align with ecological thinking
 - 🧗‍♂️ I love climbing outdoors — it keeps my balance when code gets abstract
+- Exploring the posibioities with **Claude Code**
 
 ---
 
